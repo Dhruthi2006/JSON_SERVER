@@ -1,0 +1,18 @@
+{
+  "Users": [
+    {
+      "name": "Dhruthi",
+      "email": "cvr@gmail.com",
+      "password": "cvr",
+      "id": "Uid84DTf3jY"
+    },
+    {
+      "name": "Dhruthi1",
+      "email": "cvr@gmail.com",
+      "password": "123",
+      "id": "7sq7EunXhFU"
+    }
+  ],
+  "Students": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
